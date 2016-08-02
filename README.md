@@ -6,7 +6,7 @@
 
 ## Technology colophon
 * HTML
-* CSS (SCSS)
+* CSS (SCSS, BEM Methodology)
 * JS (jQuery)
 * SVG
 * GULP
